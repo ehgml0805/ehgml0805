@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DoHee's%20GitHub&fontSize=90" />
 </div>
 <div align="center">
-  반갑습니다. 신입 백엔드 개발자 김도희입니다.
+  반갑습니다. 신입 백엔드 개발자 김도희입니다. 👋
  <br> 
  ☁️ SNS ☁️
  <br>
