@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   반갑습니다. 신입 백엔드 개발자 김도희입니다.
+ <br> 
+ ☁️ SNS ☁️
+ <br>
+ <a href="https://www.notion.so/1e393468bb08469e866e3f29e3025f6f" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 </div>
 <div align="center">
  <h3>🛠️Tech Stack🛠️</h3>
- <h4>Platforms & Languages</h4>
+ <h4> [Platforms & Languages] </h4>
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/>
    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
@@ -33,7 +38,7 @@ Here are some ideas to get you started:
  <!-- mariadb -->
    <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/>
 
- <h4>Tools</h4>
+ <h4> [Tools] </h4>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> 
