@@ -17,7 +17,10 @@ Here are some ideas to get you started:
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DoHee's%20GitHub&fontSize=90" />
 </div>
 <div align="center">
- <h3>🛠️Skills🛠️</h3>
+  반갑습니다. 신입 백엔드 개발자 김도희입니다.
+</div>
+<div align="center">
+ <h3>🛠️Tech Stack🛠️</h3>
  <h4>Platforms & Languages</h4>
    <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/>
    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
